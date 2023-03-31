@@ -1,1 +1,3 @@
-import 
+import abc;
+
+abc.ABC
