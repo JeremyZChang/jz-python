@@ -1,3 +1,3 @@
 import abc;
 
-abc.ABC
+print('HELLO')
